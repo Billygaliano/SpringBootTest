@@ -1,0 +1,44 @@
+[  
+   {  
+      "id":1,
+      "bmw_model":"2002",
+      "cv":"170",
+      "color":"Naranja",
+      "year":"1962"
+   },
+   {  
+      "id":2,
+      "bmw_model":"M3 E30",
+      "cv":"200",
+      "color":"Rojo",
+      "year":"1956"
+   },
+   {  
+      "id":3,
+      "bmw_model":"507",
+      "cv":"150",
+      "color":"Verde Racing",
+      "year":"1986"
+   },
+   {  
+      "id":4,
+      "bmw_model":"Isetta",
+      "cv":"13",
+      "color":"Blanco-Rojo",
+      "year":"1978"
+   },
+   {  
+      "id":5,
+      "bmw_model":"M1",
+      "cv":"273",
+      "color":"Blanco",
+      "year":"2003"
+   },
+   {  
+      "id":6,
+      "bmw_model":"M3 E46 CSL",
+      "cv":"360",
+      "color":"Negro metalizado",
+      "year":"1999"
+   }
+]

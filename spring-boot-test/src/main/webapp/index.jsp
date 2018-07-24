@@ -46,15 +46,17 @@
 		<div class="column1">
 			<a href="#" class="image image-full"><img src="images/BMW-Collection.jpg" height="220" alt="" /></a>
 			<div class="box">
-				<p>Etiam non felis. Donec ut ante. In id eros. Suspendisse lacus turpis, cursus egestas at sem. Mauris quam enim, molestie.</p>
-				<a href="#" class="button">Find all</a>
+				<p>To find all our cars, you must acces the path "api/cars"" or click on the button below.</p>
+				<a href="api/cars" class="button">Find all</a>
 			</div>
 		</div>			
 		<div class="column2">
 			<a href="#" class="image image-full"><img src="images/BMW-M1.jpg" height="220" alt="" /></a>
 			<div class="box">
-				<p>Etiam non felis. Donec ut ante. In id eros. Suspendisse lacus turpis, cursus egestas at sem. Mauris quam enim, molestie.</p>
-				<a href="#" class="button">Read More</a>
+				<p>To find a specific car, you only have to access the following path "api/car?id=" <strong>indicating the car id</strong> or by clicking
+				on the button below.</p>
+				<input type="text" id="carId" />
+				<a href="" onclick="this.href='api/car?id=' + document.getElementById('carId').value" class="button">Find this car</a>
 			</div>
 		</div>
 	</div>

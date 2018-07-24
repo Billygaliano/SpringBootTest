@@ -51,6 +51,10 @@
 		text-decoration: none;
 	}
 	
+	input {
+	    padding: 1em 1em 1em 1em;
+	}
+	
 	.container
 	{
 		width: 1200px;
