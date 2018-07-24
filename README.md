@@ -29,7 +29,7 @@ We have chosen to use a volatile persistence system, using h2 deapendency:
 </dependency>
 ```
 We can access to this database in the next path having as reference the information of the *application.properties*:
-http://localhost:8080/spring-boot-test/api/h2
+http://localhost:8080/spring-boot-test/h2
 
 ## Features
 This API REST has a responsive page (BMW theme) where you can try two of its 3 features:
