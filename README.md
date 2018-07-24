@@ -5,7 +5,7 @@ This is a practical test for WBS. Creating a Spring Boot application with Maven.
 It is a REST API about BMW vehicles with 3 functionalities: add vehicles to the database, consult all of them, or only one in specific by id. These last two can be used by the main page of the application, without having to access by web route.
 
 ## Development Environment
-For the development of this project, I have used the following environment:
+For the development of this project, I have worked the following environment:
 - Java 1.8.0_60
 - Maven 3.5.4
 - Tomcat v9
